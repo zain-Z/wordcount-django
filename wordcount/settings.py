@@ -25,7 +25,7 @@ SECRET_KEY = 't5a^fduiotaoexotw!(x5s6+13m&08te+%fr40dk_8z1%sq&6%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['wordcount-django.herokuapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
